@@ -1,0 +1,12 @@
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\bin\Debug\mp3_çalar.exe.config
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\bin\Debug\mp3_çalar.exe
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\bin\Debug\mp3_çalar.pdb
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\obj\Debug\mp3_çalar.csproj.AssemblyReference.cache
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\obj\Debug\Interop.WMPLib.dll
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\obj\Debug\mp3_çalar.csproj.ResolveComReference.cache
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\obj\Debug\mp3_çalar.Form1.resources
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\obj\Debug\mp3_çalar.Properties.Resources.resources
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\obj\Debug\mp3_çalar.csproj.GenerateResource.cache
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\obj\Debug\mp3_çalar.csproj.CoreCompileInputs.cache
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\obj\Debug\mp3_çalar.exe
+C:\Users\mastarichy\Desktop\yazılımlar\mp3_çalar\mp3_çalar\obj\Debug\mp3_çalar.pdb
